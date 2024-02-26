@@ -1,0 +1,18 @@
+digraph g {
+	"owl:Thing" -> "a" [label="has subclass"]
+	"b" -> "12" [label="has subclass"]
+	"c" -> "6" [label="has subclass"]
+	"b" -> "13" [label="has subclass"]
+	"b" -> "11" [label="has subclass"]
+	"b" -> "16" [label="has subclass"]
+	"b" -> "14" [label="has subclass"]
+	"b" -> "15" [label="has subclass"]
+	"a" -> "d" [label="has subclass"]
+	"c" -> "1" [label="has subclass"]
+	"c" -> "3" [label="has subclass"]
+	"d" -> "b" [label="has subclass"]
+	"c" -> "2" [label="has subclass"]
+	"d" -> "c" [label="has subclass"]
+	"c" -> "5" [label="has subclass"]
+	"c" -> "4" [label="has subclass"]
+}
